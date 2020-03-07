@@ -1,0 +1,71 @@
+Bank Sampah
+
+- Nasabah
+    - Individu
+        - Tabungan
+        - Cash
+    -Kolektif
+        - Bank Keliling
+        - Penjadwalan x Pengambilan
+        
+- 53 Jenis sampah anorganik
+
+- Donasi = Hibah (Cash)
+
+- Ke Vendor (Jual)
+    - Cash
+        - Tunai
+        - Transfer          
+    - Piutang
+    - DP
+
+- Inventori -> Prioritas barang
+
+- Stock Opname
+
+- Grafik untuk laporan
+
+- User
+    - Teller
+    - Humas
+    - Bendahara
+    - Manajer Gudang
+
+- Nota Sementara
+
+- Jadwal Pengambilan sampah
+
+- Laporan keuangan
+    - Laba rugi
+    - Arus kas
+    - Neraca
+    - Perubahan modal
+
+- Harga mix ketika dijual
+    - (Jumlah tabungan + Jumlah Cash) / Tonase
+
+- Jurnal, Gaji, Pengeluaran
+- Pembelian, Penjualan, Penarikan Tabungan (Teller)
+
+- Lain Lain
+
+- Residu
+
+- Bank Keliling -> Insentif
+                        - Penimbangan sendiri
+                        - Penimbangan Bersama (Dibantu)
+
+- Karyawan Gudang -> Gaji Mingguan
+- Pengurus -> Gaji Bulanan
+
+- Pembulatan
+    - Ekspor = Data Laporan
+
+- Piutang karyawan (Kasbon)
+
+- Approval - Vendor
+                - Penghapusan
+                - Penambahan
+                - Piutang
+                
+           - Karyawan Piutang
